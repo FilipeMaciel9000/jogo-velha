@@ -51,7 +51,7 @@ O objetivo é alinhar três símbolos iguais em linha, coluna ou diagonal antes 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/FilipeMaciel9000/jogo-da-velha.git
+git clone [https://github.com/FilipeMaciel9000/jogo-da-velha.git](https://filipemaciel9000.github.io/jogo-velha/)
 
 # 2. Acesse a pasta
 cd jogo-da-velha
