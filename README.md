@@ -21,18 +21,18 @@ O objetivo é alinhar três símbolos iguais em linha, coluna ou diagonal antes 
 
 ## 📸 Demonstração
 
-| Tela Inicial                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1b76da60-b64e-4060-bd28-086b0b05fe30" />  |
+| Tela Inicial                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1b76da60-b64e-4060-bd28-086b0b05fe30" /> |
 
 ---
 
 ## ✨ Recursos
 
-* **🧠 Desenvolve Estratégia** – treine seu raciocínio lógico e habilidades táticas
-* **🖥️ Versão Responsiva** – jogável em celulares, tablets e desktops
-* **🎨 Design Intuitivo** – interface limpa e amigável
-* **⚡ Código Simples** – feito com JavaScript puro, sem frameworks
+* 🧠 **Desenvolve Estratégia** – treine seu raciocínio lógico e habilidades táticas
+* 📱 **Versão Responsiva** – jogável em celulares, tablets e desktops
+* 🎨 **Design Intuitivo** – interface limpa e amigável
+* ⚡ **Código Simples** – feito com JavaScript puro, sem frameworks
 
 ---
 
@@ -51,7 +51,7 @@ O objetivo é alinhar três símbolos iguais em linha, coluna ou diagonal antes 
 
 ```bash
 # 1. Clone o repositório
-git clone https://filipemaciel9000.github.io/jogo-velha/
+git clone https://github.com/FilipeMaciel9000/jogo-da-velha.git
 
 # 2. Acesse a pasta
 cd jogo-da-velha
@@ -67,7 +67,7 @@ xdg-open index.html # Linux
 ## 🌐 Versão Online
 
 [![Jogar Agora](https://img.shields.io/badge/Play-Online-brightgreen?style=for-the-badge)](https://filipemaciel9000.github.io/jogo-velha/)
-**Jogue agora:** [Jogo da Velha no Navegador]([https://filipemaciel9000.github.io/jogo-velha/](https://filipemaciel9000.github.io/jogo-velha/))
+**Jogue agora:** [Jogo da Velha no Navegador](https://filipemaciel9000.github.io/jogo-velha/)
 
 ---
 
