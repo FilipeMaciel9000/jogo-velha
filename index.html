@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Filipe Maciel" />
+    <meta name="description" content="Jogue o jogo da velha no navegador" />
+    <meta
+      name="keywords"
+      content="jogo da velha, jogo, educativo, diversão, navegador"
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;✖️&lt;/text&gt;&lt;/svg&gt;"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Jogo da Velha</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Jogo da Velha</h1>
+
+      <div class="game-mode">
+        <div class="mode-selector">
+          <div class="mode-btn active" data-mode="pvp">P vs P</div>
+          <div class="mode-btn" data-mode="pvc">P vs PC</div>
+        </div>
+      </div>
+
+      <div class="status" id="status">Vez do jogador: X</div>
+
+      <div class="board" id="board">
+        <div class="cell" data-cell-index="0"></div>
+        <div class="cell" data-cell-index="1"></div>
+        <div class="cell" data-cell-index="2"></div>
+        <div class="cell" data-cell-index="3"></div>
+        <div class="cell" data-cell-index="4"></div>
+        <div class="cell" data-cell-index="5"></div>
+        <div class="cell" data-cell-index="6"></div>
+        <div class="cell" data-cell-index="7"></div>
+        <div class="cell" data-cell-index="8"></div>
+      </div>
+
+      <div class="score-board">
+        <div class="score">
+          <div>X</div>
+          <div class="score-value" id="score-x">0</div>
+        </div>
+        <div class="score">
+          <div>Empates</div>
+          <div class="score-value" id="score-draw">0</div>
+        </div>
+        <div class="score">
+          <div>O</div>
+          <div class="score-value" id="score-o">0</div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="restart">Reiniciar</button>
+        <button id="reset">Zerar</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
