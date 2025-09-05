@@ -23,8 +23,7 @@ O objetivo é alinhar três símbolos iguais em linha, coluna ou diagonal antes 
 
 | Tela Inicial                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1b76da60-b64e-4060-bd28-086b0b05fe30" />
- |
+| <img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/1b76da60-b64e-4060-bd28-086b0b05fe30" />  |
 
 ---
 
@@ -88,7 +87,3 @@ Se deseja sugerir melhorias ou reportar bugs:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Este projeto está sob a licença MIT — veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
----
-
-Se você quiser, posso também **adaptar os textos de recursos e objetivos com mais criatividade**, para deixá-lo ainda mais chamativo para um portfólio de desenvolvedor. Quer que eu faça isso?
